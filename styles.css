@@ -1,0 +1,19 @@
+body{
+    height:900px;
+    width:900px;
+    /* text-align: center; */
+    margin:0 260px;
+    border-style:initial;
+    margin-bottom: 20px;;
+
+}
+.head{
+    text-align: center;
+}
+.crio-img{
+    height:1rem;
+    width:1rem;
+}
+.project-link{
+    text-align: end;
+}
